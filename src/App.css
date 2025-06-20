@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+@theme {
+    --spacing-mContainer: 1170px; 
+     --spacing-sContainer: 800px; 
+    --font-roboto: "Roboto Slab", serif;
+    --font-poppin:  "Poppins", sans-serif;
+    
+    --color-bgColor: #00283A ;
+    --color-btnColor: #AFB42B;
+    --color-textColor:#dedee0;
+
+}
+body{
+    background-color: #000;
+}
+.slick-next {
+ right: 51px !important;
+}
+   

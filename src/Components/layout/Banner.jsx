@@ -17,7 +17,7 @@ const Banner = () => {
   return (
     
     <>
-      <div className="bg-[url('./banner.jpg')]  bg-center bg-cover bg-no-repeat  py-[200px] w-[95%] mx-auto rounded-[30px] relative ">
+      <div className="bg-[url('./assets/banner.jpg')]  bg-center bg-cover bg-no-repeat  py-[200px] w-[95%] mx-auto rounded-[30px] relative ">
         <Container>
           <div className="bg-bgColor  w-[340px] h-[780px] fixed  pt-[20px] rounded-[20px] ">
             <div className="w-[200px] h-[200px] rounded-full overflow-hidden mx-auto">

@@ -1,7 +1,6 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-
 @theme {
     --spacing-mContainer: 1170px; 
      --spacing-sContainer: 800px; 
